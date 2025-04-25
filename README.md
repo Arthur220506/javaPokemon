@@ -1,2 +1,3 @@
-# special-guacamole# javaPokemon
 # javaPokemon
+
+desacriçao do projeto
